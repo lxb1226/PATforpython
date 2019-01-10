@@ -1,6 +1,4 @@
 
-
-
 N = int(input())
 
 scores = [(input().split(' ')) for i in range(N)]
